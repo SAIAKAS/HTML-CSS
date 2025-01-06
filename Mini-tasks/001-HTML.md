@@ -7,14 +7,12 @@
 ```HTML
     <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
-        </title>
+        <title>Document guvi</title>
     </head>
+<body>
     <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
+       <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
             <div>
                 Guvi Geek Network
             </div>
@@ -25,14 +23,13 @@
 
 ```HTML
 <html lang="en">
-    <head>
-        <title>Document
-            <body>
-                guvi
-    </head>
+ <head>
+        <title>Document guvi</title>
+ </head>
+ <body>
     <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
             <div>
                 Guvi Geek Network
             </div>
